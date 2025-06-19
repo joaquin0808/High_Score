@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pictograma02_games" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .76;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: .75px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-2);
+        stroke: aqua;
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+    </style>
+    <filter id="outer-glow-2" x="3" y="3" width="94" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood flood-color="#06efe8" flood-opacity=".53"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-4" cx="50" cy="50" r="43.69"/>
+  <g class="cls-1">
+    <path class="cls-2" d="M50,8.25c23.02,0,41.75,18.73,41.75,41.75s-18.73,41.75-41.75,41.75S8.25,73.02,8.25,50,26.98,8.25,50,8.25M50,7.5C26.53,7.5,7.5,26.53,7.5,50s19.03,42.5,42.5,42.5,42.5-19.03,42.5-42.5S73.47,7.5,50,7.5h0Z"/>
+  </g>
+  <path class="cls-5" d="M80.35,50.81c-.06,6.75-5.85,14.26-13.2,14.26-4,0-7.58-1.92-10-4.95h-16.08c-2.42,3.03-6,4.95-10,4.95-7.35,0-13.06-7.57-13.2-14.26-.14-6.75,5.34-14.5,12.61-14.69,5.14-.13,8.94,3.58,9.86,4.53h17.54c1.03-.99,4.81-4.38,9.85-4.19,7.25.27,12.67,7.74,12.61,14.35Z"/>
+  <ellipse class="cls-3" cx="67.73" cy="54.85" rx="2.45" ry="2.19"/>
+  <ellipse class="cls-3" cx="62.83" cy="49.97" rx="2.45" ry="2.19"/>
+  <ellipse class="cls-3" cx="73.27" cy="49.97" rx="2.45" ry="2.19"/>
+  <ellipse class="cls-3" cx="67.73" cy="44.95" rx="2.45" ry="2.19"/>
+  <rect class="cls-3" x="28.55" y="44.74" width="2.64" height="3.83"/>
+  <rect class="cls-3" x="24.04" y="48.55" width="2.31" height="4.61" transform="translate(-25.66 76.05) rotate(-90)"/>
+  <rect class="cls-3" x="28.55" y="52.98" width="2.64" height="3.89"/>
+  <rect class="cls-3" x="33.76" y="48.26" width="2.31" height="5.18" transform="translate(-15.94 85.77) rotate(-90)"/>
+</svg>

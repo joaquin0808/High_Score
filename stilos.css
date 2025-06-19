@@ -1,0 +1,155 @@
+.cuerpo{
+    background: #110118;
+}
+
+.logo{
+    height: 190px;
+    border: 4px solid rgb(19, 1, 11);
+    border-radius: 200px;
+
+}
+
+.LN{
+    height: 120px;
+}
+
+.JS{
+    height: 120px;
+}
+
+.MU{
+    height: 120px;
+}
+
+.RS{
+    height: 120px;
+}
+
+.CS{
+    height: 120px;
+}
+
+.piso{
+    position: absolute;
+    height: 300px;
+    top: 756px;
+    transform: rotate(100px);
+
+}
+
+
+
+.mario{
+    height: 630px;
+    transform: translateX(149px);
+    margin-top: 112px;
+}
+
+
+.seccion1{
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px #016ae250;
+    border: 3px solid #0793f0;
+    
+
+}
+
+.seccion2{
+     text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px #016ae250;
+    border: 3px solid #0793f0;
+    padding-top: 10px;
+}
+
+.imagenes{
+    padding: 65px;
+}
+
+.hamburguesa{
+    height: 150px;
+    width: 225px;
+    border:4.5px solid #ffffff;
+    border-radius: 20px;
+}
+
+.pichanga{
+    height: 151px;
+    width: 230px;
+    border:4.5px solid #ffffff;
+    border-radius: 20px;
+    transform: translateX(40px);
+
+}
+
+.cocteles{
+    height: 150px;
+    width: 210px;
+    border:4.5px solid #ffffff;
+    border-radius: 20px;
+    transform: translateX(70px);
+
+}
+
+.postres{
+    height: 150px;
+    width: 199px;
+    border:4.5px solid #ffffff;
+    border-radius: 20px;
+    transform: translateX(100px);
+
+
+}
+
+.wraps{
+    height: 150px;
+    width: 220px;
+      border:4.5px solid #ffffff;
+    border-radius: 20px;
+    transform: translateX(138px);
+
+}
+
+.seccion3{
+    top: 4000px;
+         text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px #016ae250;
+    border: 3px solid #0793f0;
+
+}
+
+.contenedor{
+    font-size: 19px;
+    position: relative;
+    color: #ffffff;
+    container: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 960px;
+    left: 800px;
+    top: -514px;
+    text-shadow: 1px 1px #0793f0;
+}
+
+.INSTA{
+    position: absolute;
+    margin-left: 19px;
+    font-size: 60px;
+}
+
+.YOUTU{
+    top: 1950px;
+    position: absolute;
+    font-size: 60px;
+    margin: 12px;
+}
